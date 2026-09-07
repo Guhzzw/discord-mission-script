@@ -2,11 +2,11 @@
 
 > Projeto pessoal em JavaScript para estudos e experimentos com automação no cliente do Discord.
 
-## ⚠️ Aviso
+## ! Aviso
 
 Este projeto mexe com partes internas do cliente do Discord e pode deixar de funcionar quando o Discord atualizar o aplicativo. O uso pode também contrariar regras ou termos da plataforma. Use por sua conta e risco.
 
-## 📁 Estrutura
+## - Estrutura
 
 ```text
 discord-mission-script/
@@ -16,19 +16,15 @@ discord-mission-script/
 └── LICENSE
 ```
 
-## 🎯 Objetivo
+## - Objetivo
 
 Manter o código organizado e versionado para fins pessoais de estudo, documentação e experimentação.
 
-## 🧪 Tecnologias
+## - Tecnologias
 
 - JavaScript
 - Discord Desktop
 - Git / GitHub
-
-## 🔐 Privacidade
-
-Não coloque tokens, senhas, cookies, credenciais ou outras informações pessoais neste repositório.
 
 ## 📌 Status
 
